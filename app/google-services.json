@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "559558193083",
+    "firebase_url": "https://agent-name-2-18c4f.firebaseio.com",
+    "project_id": "agent-name-2-18c4f",
+    "storage_bucket": "agent-name-2-18c4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559558193083:android:1ea3a7fc1a07cdd3",
+        "android_client_info": {
+          "package_name": "com.example.masho.checking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559558193083-jsih1t0shdhbq37i4qak204udpdgeilj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAibAFGAC_gJQF_47_h42evoTvDUzpEJTE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
